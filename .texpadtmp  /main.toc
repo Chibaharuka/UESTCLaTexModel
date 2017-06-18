@@ -1,0 +1,27 @@
+ \cftsetpnumwidth {\widthof {I}-1pt} 
+ \cftsetpnumwidth {\widthof {II}-1pt} 
+ \cftsetpnumwidth {\widthof {1}-1pt} 
+\contentsline {chapter}{\numberline {第一章}绪\hspace {6pt}论}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}论文的基本要求}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}完成论文的工作}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}论文的结构安排}{1}{section.1.3}
+ \cftsetpnumwidth {\widthof {2}-1pt} 
+\contentsline {chapter}{\numberline {第二章}波导管中不能传播TEM波的证明}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}教材证明方法的简单描述}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}反证法证明}{2}{section.2.2}
+ \cftsetpnumwidth {\widthof {3}-1pt} 
+\contentsline {section}{\numberline {2.3}唯象说明}{3}{section.2.3}
+\contentsline {section}{\numberline {2.4}本章小结}{3}{section.2.4}
+ \cftsetpnumwidth {\widthof {4}-1pt} 
+\contentsline {chapter}{\numberline {第三章}波导的“形象化”理解}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}低频时为什么波导会给出按指数减弱的场}{4}{section.3.1}
+ \cftsetpnumwidth {\widthof {5}-1pt} 
+\contentsline {section}{\numberline {3.2}高频时为什么波会传播}{5}{section.3.2}
+ \cftsetpnumwidth {\widthof {6}-1pt} 
+\contentsline {section}{\numberline {3.3}本章小结}{6}{section.3.3}
+ \cftsetpnumwidth {\widthof {7}-1pt} 
+\contentsline {chapter}{\numberline {第四章}全文总结和课程学习总结}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}全文总结}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}课程学习总结}{7}{section.4.2}
+ \cftsetpnumwidth {\widthof {8}-1pt} 
+\contentsline {chapter}{参考文献}{8}{chapter*.5}
